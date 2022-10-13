@@ -1,0 +1,5 @@
+aws:
+  secretsmanager:
+    enabled: true
+    region: us-east-1
+    fail-fast: false
